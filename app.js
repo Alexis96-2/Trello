@@ -12,3 +12,4 @@ trello.addCard(cardTitle, "LaunchX Card Description", "IdList",
     else {
       console.log('Added card:', trelloCard);
     }
+    });
